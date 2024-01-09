@@ -90,17 +90,16 @@
     </thead>
     <tbody>
       <tr>
-        <td>John Doe</td>
-        <td>john@example.com</td>
+        <td>Vikas Pal</td>
+        <td>vik@gmail.com</td>
         <td>25</td>
       </tr>
       <tr>
-        <td>Jane Smith</td>
-        <td>jane@example.com</td>
+        <td>Jai Kumar</td>
+        <td>jai@yahoo.com</td>
         <td>30</td>
       </tr>
-      <!-- Add more rows as needed -->
-    </tbody>
+      </tbody>
   </table>
 
   <!-- Login Page -->
