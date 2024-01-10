@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIET Group of Institutions, Delhi-Ncr,GZB</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        section {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .feature {
+            flex: 0 0 calc(33.33% - 20px);
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .feature {
+                flex: 0 0 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>KIET Group of Institutions, Delhi-Ncr,GZB</h1>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#programs">Programs</a>
+        <a href="#admissions">Admissions</a>
+        <a href="#events">Events</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="home">
+        <h2>Welcome to KIET Group of Institutions, Delhi-Ncr,GZB</h2>
+        <p>KIET Group of Institutions strives to create technically competent professionals who can contribute productively towards the betterment of the Industry and the Society as a whole.</p>
+
+        <div class="container">
+            <div class="feature">
+                <h2>Programs</h2>
+                <p>Explore our wide range of academic programs.</p>
+            </div>
+
+            <div class="feature">
+                <h2>Admissions</h2>
+                <p>Apply now to join our vibrant community.</p>
+            </div>
+
+            <div class="feature">
+                <h2>Events</h2>
+                <p>Stay updated on upcoming events and activities.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="programs">
+        <h2>Our Programs</h2>
+    </section>
+
+    <section id="admissions">
+        <h2>Admissions</h2>
+           </section>
+
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        
+    </section>
+    <p>The institute has been accredited by NAAC with Grade 'A+' and its programmes (CSE, ECE, EEE, IT, CE, ME), MCA, MBA and Pharmacy are NBA accredited.</p>
+
+    <footer>
+        &copy; 2024 KIET Group of Institutions, Delhi-Ncr,GZB. All rights reserved.
+    </footer>
+</body>
+</html>
